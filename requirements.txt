@@ -1,0 +1,8 @@
+dash
+dash-daq
+plotly
+pandas
+numpy
+chardet
+requests
+gunicorn
